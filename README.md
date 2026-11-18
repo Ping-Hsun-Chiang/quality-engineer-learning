@@ -17,6 +17,14 @@
 
 狀態：⬜ 未開始　🟨 進行中　✅ 完成
 
+## 實作工具
+
+| 工具 | 功能 | 對應筆記 |
+|---|---|---|
+| [spc.py](tools/README.md) | X̄-R 管制圖、Nelson 8 條判異規則、Ca/Cp/Cpk/Pp/Ppk 計算 | 03 |
+
+![X̄-R 管制圖範例](tools/output/xbar_r.png)
+
 ## 專案結構
 
 ```
