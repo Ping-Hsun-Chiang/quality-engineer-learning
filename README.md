@@ -10,7 +10,7 @@
 | 2. 工具 | QC 七大手法、5Why | [02-QC七大手法](notes/02-QC七大手法.md) | 🟨 |
 | 3. 統計 | SPC、管制圖、Cp/Cpk | [03-SPC與製程能力](notes/03-SPC與製程能力.md) | 🟨 |
 | 3. 統計 | MSA、GR&R | [04-MSA](notes/04-MSA.md) | 🟨 |
-| 3. 統計 | 抽樣檢驗、AQL | [05-抽樣檢驗](notes/05-抽樣檢驗.md) | ⬜ |
+| 3. 統計 | 抽樣檢驗、AQL | [05-抽樣檢驗](notes/05-抽樣檢驗.md) | 🟨 |
 | 4. 問題解決 | 8D | [06-8D](notes/06-8D.md) | ⬜ |
 | 4. 問題解決 | FMEA | [07-FMEA](notes/07-FMEA.md) | ⬜ |
 | 5. 系統與改善 | ISO 9001、IATF 16949、APQP/PPAP、CIP、六標準差 | [08-品質系統與持續改善](notes/08-品質系統與持續改善.md) | ⬜ |
