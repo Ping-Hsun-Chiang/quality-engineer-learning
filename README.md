@@ -8,7 +8,7 @@
 |---|---|---|---|
 | 1. 基礎 | 品質基本觀念、QC/QA/IQC/IPQC/OQC、PDCA、4M1E、品質成本 | [01-品質基礎](notes/01-品質基礎.md) | 🟨 |
 | 2. 工具 | QC 七大手法、5Why | [02-QC七大手法](notes/02-QC七大手法.md) | 🟨 |
-| 3. 統計 | SPC、管制圖、Cp/Cpk | [03-SPC與製程能力](notes/03-SPC與製程能力.md) | ⬜ |
+| 3. 統計 | SPC、管制圖、Cp/Cpk | [03-SPC與製程能力](notes/03-SPC與製程能力.md) | 🟨 |
 | 3. 統計 | MSA、GR&R | [04-MSA](notes/04-MSA.md) | ⬜ |
 | 3. 統計 | 抽樣檢驗、AQL | [05-抽樣檢驗](notes/05-抽樣檢驗.md) | ⬜ |
 | 4. 問題解決 | 8D | [06-8D](notes/06-8D.md) | ⬜ |
