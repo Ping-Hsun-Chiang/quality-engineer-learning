@@ -23,6 +23,7 @@
 |---|---|---|
 | [spc.py](tools/README.md) | X̄-R 管制圖、Nelson 8 條判異規則、Ca/Cp/Cpk/Pp/Ppk 計算 | 03 |
 | [grr.py](tools/README.md) | GR&R 平均值與全距法、%GRR、ndc、%公差、四張分析圖 | 04 |
+| [aql.py](tools/README.md) | AQL 查表（含箭頭規則）、允收判定、OC 曲線與 C=0 比較 | 05 |
 
 ![X̄-R 管制圖範例](tools/output/xbar_r.png)
 
