@@ -15,7 +15,15 @@
 | 4. 問題解決 | FMEA | [07-FMEA](notes/07-FMEA.md) | 🟨 |
 | 5. 系統與改善 | ISO 9001、IATF 16949、APQP/PPAP、CIP、六標準差 | [08-品質系統與持續改善](notes/08-品質系統與持續改善.md) | 🟨 |
 
-狀態：⬜ 未開始　🟨 進行中　✅ 完成
+狀態：⬜ 未開始　🟨 筆記完成，待用自己的話寫「我的回答」　✅ 完成
+
+## 面試準備
+
+| 文件 | 用途 |
+|---|---|
+| [面試速查表](interview/面試速查表.md) | 必背數字、公式、差異題、常見陷阱、情境題架構，面試前快速複習 |
+| [面試題庫](interview/QA題庫.md) | 依主題整理的面試題，以及各階段練習題 |
+| [STAR 回答模板](interview/STAR回答模板.md) | 行為面試題的回答架構與範例 |
 
 ## 模擬案例
 
@@ -39,9 +47,17 @@
 quality-engineer-learning/
 ├─ notes/        各主題學習筆記
 ├─ cases/        模擬案例（8D 報告、完整改善流程）
-├─ tools/        Python 小工具（SPC 管制圖、Cpk 計算）
-└─ interview/    面試題庫與我的回答
+├─ tools/        Python 小工具（SPC、GR&R、AQL）與測試
+└─ interview/    面試速查表、題庫、STAR 回答模板
 ```
+
+## 複習建議
+
+1. **讀筆記**：依 01 → 08 的順序，每篇讀完後把「面試怎麼問」用自己的話寫進「我的回答」
+2. **動手算**：用筆和計算機做一次 03（Cpk）、04（GR&R）、05（查 AQL 表）的手算範例，再用工具驗算
+3. **寫練習題**：完成 [面試題庫](interview/QA題庫.md) 最後的「階段練習題」
+4. **準備故事**：用 [STAR 模板](interview/STAR回答模板.md) 準備 3～5 個自己的經驗
+5. **面試前**：看一遍 [面試速查表](interview/面試速查表.md)
 
 ## 筆記格式
 
@@ -56,5 +72,8 @@ quality-engineer-learning/
 ## 參考資料
 
 - ISO 9001:2015 品質管理系統
-- AIAG 核心工具手冊（APQP、PPAP、FMEA、MSA、SPC）
+- IATF 16949:2016 汽車業品質管理系統
+- AIAG 核心工具手冊（APQP、PPAP、MSA 第四版、SPC 第二版）
+- AIAG-VDA FMEA 手冊（2019）
+- ISO 2859-1 計數值抽樣檢驗程序（MIL-STD-105E、CNS 2779）、MIL-STD-1916
 - 中華民國品質學會相關教材
