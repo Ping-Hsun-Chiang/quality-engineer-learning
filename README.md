@@ -21,7 +21,8 @@
 
 | 工具 | 功能 | 對應筆記 |
 |---|---|---|
-| [spc.py](tools/README.md) | X̄-R 管制圖、Nelson 8 條判異規則、Ca/Cp/Cpk/Pp/Ppk 計算 | 03 |
+| [spc.py](tools/README.md#spcpyx̄-r-管制圖與製程能力分析) | X̄-R 管制圖、Nelson 8 條判異規則、Ca/Cp/Cpk/Pp/Ppk 計算 | 03 |
+| [grr.py](tools/README.md#grrpygrr-量具重複性與再現性) | GR&R 平均值與全距法、%GRR、ndc、%公差、四張分析圖 | 04 |
 
 ![X̄-R 管制圖範例](tools/output/xbar_r.png)
 
